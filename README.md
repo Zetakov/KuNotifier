@@ -1,5 +1,6 @@
 # KuNotifier
 ===================================
+
 A ticker then sends an sms (or email) to a desired address when a particular value is reached by a coin on KuCoin. 
 
 ## Install
